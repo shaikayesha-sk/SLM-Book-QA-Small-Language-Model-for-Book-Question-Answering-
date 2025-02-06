@@ -89,7 +89,7 @@ For any questions or issues, reach out via GitHub issues.
 
 ---
 🔗 **GitHub Repository Link:** 
-(https://github.com/YOUR_USERNAME/SLM-Book-QA)](https://github.com/shaikayesha-sk/SLM-Book-QA-Small-Language-Model-for-Book-Question-Answering-/tree/main)
+(https://github.com/shaikayesha-sk/SLM-Book-QA-Small-Language-Model-for-Book-Question-Answering-/tree/main)
 
 🚀 **Ready to take your book-based Q&A to the next level!**
 
